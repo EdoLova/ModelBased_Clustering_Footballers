@@ -35,5 +35,3 @@ Analyze Serie A 2022/23 player data to identify **playing styles and functional 
 
 ---
 
-Tip: Add some **cluster plots or visualizations** from your analysis to make the README more engaging for visitors.
-
