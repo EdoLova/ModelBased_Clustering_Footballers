@@ -1,11 +1,4 @@
 # Serie A 2022-2023 Player Clustering
-
-**Course:** Bachelor’s Degree in Statistics for Technology and Science – University of Padua  
-**Supervisor:** Prof. Stefano Mazzuco  
-**Author:** Edoardo Lovato  
-**Academic Year:** 2023/2024  
-**Languages:** R
-
 ---
 
 ## Project Objective
@@ -34,3 +27,10 @@ Analyze Serie A 2022/23 player data to identify **playing styles and functional 
 - Future improvements: integrating **tracking data** and multi-season analysis for more robust and precise insights
 
 ---
+
+## Author
+**Course:** Bachelor’s Degree in Statistics for Technology and Science – University of Padua  
+**Supervisor:** Prof. Stefano Mazzuco  
+**Author:** Edoardo Lovato  
+**Academic Year:** 2023/2024  
+**Languages:** R
